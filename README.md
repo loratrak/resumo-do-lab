@@ -4,10 +4,10 @@ Aprendi a criar máquina virtual, escolher as opções de redundancia, aprender 
 
 # Construção do Database no Azure
 
-1-Navegue em https://portal.azure.com/#create/Microsoft.SQLDatabase;
-2- Escolha uma subscription;
-3- Escolha um resource group;
-4- Escolha um Database Name;
-5- Crie um servidor para o SQL Server;
-6- escolhe as opções de autenticação do SQL;
-7- Escolha na Aba Networking se será uma conexão pública ou privada.
+* Navegue em https://portal.azure.com/#create/Microsoft.SQLDatabase
+* Escolha uma subscription
+* Escolha um resource group
+* Escolha um Database Name
+* Crie um servidor para o SQL Server
+* escolhe as opções de autenticação do SQL
+* Escolha na Aba Networking se será uma conexão pública ou privada.
